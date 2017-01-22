@@ -18,34 +18,34 @@
       color: layoutColors.defaultText,
       dataProvider: [
         {
-          country: 'USA',
-          visits: 3025,
+          country: 'Jan 1',
+          visits: 80000,
           color: layoutColors.primary
         },
         {
-          country: 'China',
-          visits: 1882,
+          country: 'Jan 2',
+          visits: 60000,
           color: layoutColors.danger
 
         },
         {
-          country: 'Japan',
-          visits: 1809,
+          country: 'Jan 3',
+          visits: 40000,
           color: layoutColors.info
         },
         {
-          country: 'Germany',
-          visits: 1322,
+          country: 'Jan 4',
+          visits: 70000,
           color: layoutColors.success
         },
         {
-          country: 'UK',
-          visits: 1122,
+          country: 'Jan 5',
+          visits: 70000,
           color: layoutColors.warning
         },
         {
-          country: 'France',
-          visits: 1114,
+          country: 'Jan 6',
+          visits: 60000,
           color: layoutColors.primaryLight
         }
       ],
@@ -53,7 +53,7 @@
         {
           axisAlpha: 0,
           position: 'left',
-          title: 'Visitors from country',
+          title: 'Revenue',
           gridAlpha: 0.5,
           gridColor: layoutColors.border,
         }
